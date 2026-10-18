@@ -12,15 +12,14 @@ services:
       STORAGE_DRIVER: local
       STORAGE_LOCAL_DIR: /data/uploads
       # This instance's own Impressum, privacy policy and terms (./legal); Traureise ships none of them.
-      # A setting without a file makes no page, so TERMS_FILE can stay set before agb.md exists.
       IMPRINT_FILE: /legal/impressum.md
       PRIVACY_FILE: /legal/datenschutz.md
-      TERMS_FILE: /legal/agb.md
+      # TERMS_FILE: /legal/agb.md once the terms exist (with paid tiers).
     volumes:
       - ./legal:/legal:ro
       - ./data/uploads:/data/uploads
     ports:
-      - "${PRIVATE_IP:?this server's private address}:${PORT:-3010}:3000"
+      - "${PRIVATE_IP:?this server's private address}:${HOST_PORT:-3010}:3000"
     depends_on:
       db:
         condition: service_healthy
