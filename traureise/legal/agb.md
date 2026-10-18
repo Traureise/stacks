@@ -8,7 +8,8 @@ Diese Bedingungen gelten für die Nutzung von Traureise unter traureise.de. Anbi
 
 Mit Traureise gestaltet ihr eine Website für eure Hochzeit und teilt sie mit euren Gästen.
 
-- **Website (kostenlos):** Hochzeitswebsite mit allen Bereichen, Teilen per Link und QR-Code, Themes, Farben und Schriften.
+- **Website (kostenlos):** Hochzeitswebsite mit allen Bereichen, Teilen per Link und QR-Code, Themes, Farben und Schriften. Gästeliste, Antwortfrist, Menüwahl und Umfragen könnt ihr kostenlos vorbereiten und das Antwortformular in der Vorschau ansehen.
+- **RSVP:** persönliche Antwort-Links für jeden Haushalt eurer Gästeliste, Teilen per Link oder WhatsApp, die Antworten eurer Gäste in der Übersicht und Benachrichtigungen per E-Mail.
 - **Kostenpflichtige Pakete:** weitere Funktionen für eine Hochzeitswebsite, wie sie auf der Seite [Preise](/preise) beschrieben sind. Ein Paket gilt für genau eine Hochzeitswebsite.
 
 Pakete, deren Funktionen noch nicht verfügbar sind, sind als „bald verfügbar“ gekennzeichnet und können nicht gekauft werden.
@@ -41,29 +42,35 @@ Ihr räumt uns die einfachen Rechte ein, die wir brauchen, um eure Inhalte zu sp
 
 Erfahren wir von rechtswidrigen Inhalten, dürfen wir sie sperren oder entfernen. Bei schweren oder wiederholten Verstößen dürfen wir eine Website oder ein Konto sperren; ein bereits bezahltes Paket wird dann nicht erstattet, wenn der Verstoß von euch zu vertreten ist.
 
-## 8. Verfügbarkeit
+## 8. Gästeliste
+
+Für die Gästeliste und die Antworten eurer Gäste seid ihr verantwortlich. Tragt nur Menschen ein, die ihr zu eurer Hochzeit einladet, und schickt die persönlichen Links nur an den jeweiligen Haushalt; wer einen Link hat, kann für diesen Haushalt antworten. Wir verschicken keine Einladungen; Links teilt ihr selbst, zum Beispiel per WhatsApp.
+
+Die Gästeliste mit allen Antworten löschen wir automatisch zwölf Monate nach eurem Hochzeitstag oder, wenn das später ist, am Ende eures RSVP-Pakets. Etwa 30 Tage vorher erinnern wir euch per E-Mail; bis dahin könnt ihr sie als CSV-Datei oder mit euren übrigen Daten unter „Konto“ herunterladen. Wird ein Paket erstattet oder zurückgebucht, sind die Links ab dann nicht mehr aktiv; die Gästeliste bleibt bis zu diesem Datum erhalten.
+
+## 9. Verfügbarkeit
 
 Wir bemühen uns, Traureise ständig erreichbar zu halten, können das aber nicht garantieren. Wartung, Sicherheitsupdates oder Störungen außerhalb unseres Einflusses können zu Unterbrechungen führen. Wir entwickeln Traureise weiter und dürfen Funktionen ändern, solange der Kern eines gekauften Pakets erhalten bleibt.
 
 Sichert Inhalte, die euch wichtig sind, auch selbst: Unter „Konto“ könnt ihr jederzeit alle eure Daten als ZIP-Datei herunterladen.
 
-## 9. Haftung
+## 10. Haftung
 
 Wir haften unbeschränkt bei Vorsatz und grober Fahrlässigkeit, bei Verletzung von Leben, Körper oder Gesundheit, nach dem Produkthaftungsgesetz und soweit wir eine Garantie übernommen haben. Bei leichter Fahrlässigkeit haften wir nur für die Verletzung wesentlicher Vertragspflichten, also solcher, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags erst ermöglicht und auf deren Einhaltung ihr regelmäßig vertrauen dürft; in diesem Fall ist die Haftung auf den vorhersehbaren, vertragstypischen Schaden begrenzt. Im Übrigen ist die Haftung ausgeschlossen. Für die unentgeltliche Website haften wir nur für Vorsatz und grobe Fahrlässigkeit, soweit gesetzlich zulässig.
 
-## 10. Kündigung und Löschung
+## 11. Kündigung und Löschung
 
-Ihr könnt euer Konto jederzeit unter „Konto“ löschen. Damit werden alle eure Hochzeitswebsites, Inhalte und Bilder gelöscht; bezahlte Pakete enden ohne Erstattung, soweit kein Widerrufs- oder Erstattungsanspruch besteht. Wir können den unentgeltlichen Nutzungsvertrag mit einer Frist von vier Wochen per E-Mail kündigen; ein laufendes Paket bleibt davon bis zu seinem Ende unberührt. Das Recht zur Kündigung aus wichtigem Grund bleibt für beide Seiten bestehen.
+Ihr könnt euer Konto jederzeit unter „Konto“ löschen. Damit werden alle eure Hochzeitswebsites, Inhalte, Bilder und Gästelisten gelöscht; bezahlte Pakete enden ohne Erstattung, soweit kein Widerrufs- oder Erstattungsanspruch besteht. Wir können den unentgeltlichen Nutzungsvertrag mit einer Frist von vier Wochen per E-Mail kündigen; ein laufendes Paket bleibt davon bis zu seinem Ende unberührt. Das Recht zur Kündigung aus wichtigem Grund bleibt für beide Seiten bestehen.
 
-## 11. Änderungen dieser Bedingungen
+## 12. Änderungen dieser Bedingungen
 
 Wir können diese Bedingungen mit Wirkung für die Zukunft ändern, wenn ein sachlicher Grund besteht, etwa eine Gesetzesänderung oder eine neue Funktion. Wir informieren euch mindestens vier Wochen vorher per E-Mail. Widersprecht ihr nicht innerhalb dieser Frist, gelten die geänderten Bedingungen; auf diese Folge weisen wir in der E-Mail hin. Für bereits gekaufte Pakete gelten keine Änderungen zu euren Lasten.
 
-## 12. Datenschutz
+## 13. Datenschutz
 
 Wie wir mit euren Daten umgehen, steht in der [Datenschutzerklärung](/datenschutz).
 
-## 13. Schlussbestimmungen
+## 14. Schlussbestimmungen
 
 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Bei Verbraucherinnen und Verbrauchern gilt diese Rechtswahl nur, soweit dadurch nicht der Schutz entzogen wird, den zwingende Bestimmungen des Staates ihres gewöhnlichen Aufenthalts gewähren. Ich bin nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. Sollte eine Bestimmung unwirksam sein, bleiben die übrigen wirksam.
 
