@@ -8,9 +8,11 @@ Diese Bedingungen gelten für die Nutzung von Traureise unter traureise.de. Anbi
 
 Mit Traureise gestaltet ihr eine Website für eure Hochzeit und teilt sie mit euren Gästen.
 
-- **Website (kostenlos):** Hochzeitswebsite mit allen Bereichen, Teilen per Link und QR-Code, Themes, Farben und Schriften. Gästeliste, Antwortfrist, Menüwahl und Umfragen könnt ihr kostenlos vorbereiten und das Antwortformular in der Vorschau ansehen.
+- **Website (kostenlos):** Hochzeitswebsite mit allen Bereichen, Teilen per Link und QR-Code, Themes, Farben und Schriften. Gästeliste, Antwortfrist, Menüwahl und Umfragen könnt ihr kostenlos vorbereiten und das Antwortformular in der Vorschau ansehen, ebenso Karten gestalten und in der Vorschau ansehen.
 - **RSVP:** persönliche Antwort-Links für jeden Haushalt eurer Gästeliste, Teilen per Link oder WhatsApp, die Antworten eurer Gäste in der Übersicht und Benachrichtigungen per E-Mail.
-- **Kostenpflichtige Pakete:** weitere Funktionen für eine Hochzeitswebsite, wie sie auf der Seite [Preise](/preise) beschrieben sind. Ein Paket gilt für genau eine Hochzeitswebsite.
+- **Einladungen:** zusätzlich Save the Date und Einladung über den persönlichen Link jedes Haushalts, Versand per Link, WhatsApp oder E-Mail, Erinnerungen per E-Mail (automatisch oder per Klick), die Anzeige, welcher Haushalt eine Karte geöffnet hat, und der Export als PDF und Bild.
+- **Komplett:** zusätzlich Dankeskarte und Verlobungsanzeige.
+- Gestalten und die Vorschau aller Karten sind kostenlos. Ein Paket gilt für genau eine Hochzeitswebsite; Einzelheiten stehen auf der Seite [Preise](/preise).
 
 Pakete, deren Funktionen noch nicht verfügbar sind, sind als „bald verfügbar“ gekennzeichnet und können nicht gekauft werden.
 
@@ -44,9 +46,11 @@ Erfahren wir von rechtswidrigen Inhalten, dürfen wir sie sperren oder entfernen
 
 ## 8. Gästeliste
 
-Für die Gästeliste und die Antworten eurer Gäste seid ihr verantwortlich. Tragt nur Menschen ein, die ihr zu eurer Hochzeit einladet, und schickt die persönlichen Links nur an den jeweiligen Haushalt; wer einen Link hat, kann für diesen Haushalt antworten. Wir verschicken keine Einladungen; Links teilt ihr selbst, zum Beispiel per WhatsApp.
+Für die Gästeliste und die Antworten eurer Gäste seid ihr verantwortlich. Tragt nur Menschen ein, die ihr zu eurer Hochzeit einladet, und schickt die persönlichen Links nur an den jeweiligen Haushalt; wer einen Link hat, kann für diesen Haushalt antworten und sieht die Karten, die ihr ihm geschickt habt. Links teilt ihr selbst, zum Beispiel per WhatsApp, oder lasst Karten und Erinnerungen von uns per E-Mail verschicken.
 
-Die Gästeliste mit allen Antworten löschen wir automatisch zwölf Monate nach eurem Hochzeitstag oder, wenn das später ist, am Ende eures RSVP-Pakets. Etwa 30 Tage vorher erinnern wir euch per E-Mail; bis dahin könnt ihr sie als CSV-Datei oder mit euren übrigen Daten unter „Konto“ herunterladen. Wird ein Paket erstattet oder zurückgebucht, sind die Links ab dann nicht mehr aktiv; die Gästeliste bleibt bis zu diesem Datum erhalten.
+E-Mail-Adressen tragt ihr nur für Gäste ein, die damit rechnen, von euch zur Hochzeit Post zu bekommen, und nur, wenn ihr die Adresse rechtmäßig habt. Wir verschicken die E-Mails in eurem Auftrag mit eurem Namen als Absender; Antworten gehen an die E-Mail-Adresse eures Kontos. Jede E-Mail enthält einen Abmeldelink; meldet sich ein Haushalt ab, löschen wir seine Adresse. Tragt sie danach nur wieder ein, wenn der Haushalt euch ausdrücklich darum bittet. Ihr dürft den Versand nicht für Werbung oder für andere Zwecke als eure Hochzeit nutzen. Wir dürfen den E-Mail-Versand für eine Website aussetzen, wenn er missbraucht wird oder sich Beschwerden über unerwünschte E-Mails häufen.
+
+Die Gästeliste mit allen Antworten, E-Mail-Adressen, persönlichen Zeilen und dem Versandstatus eurer Karten löschen wir automatisch zwölf Monate nach eurem Hochzeitstag oder, wenn das später ist, am Ende eures RSVP-Pakets. Etwa 30 Tage vorher erinnern wir euch per E-Mail; bis dahin könnt ihr sie als CSV-Datei oder mit euren übrigen Daten unter „Konto“ herunterladen. Wird ein Paket erstattet oder zurückgebucht, sind die Links ab dann nicht mehr aktiv; die Gästeliste bleibt bis zu diesem Datum erhalten. Die Gestaltung eurer Karten bleibt bei eurer Website.
 
 ## 9. Verfügbarkeit
 

@@ -13,7 +13,7 @@ E-Mail: [kontakt@marcelbruckner.de](mailto:kontakt@marcelbruckner.de)
 
 ## Das Wichtigste in Kürze
 
-Wir verarbeiten personenbezogene Daten nur, soweit es für den Betrieb von Traureise nötig ist. Es gibt kein Tracking, keine Analysedienste, keine Werbung und keine eingebetteten Inhalte Dritter: Schriften, Skripte und Bilder liefert ausschließlich unser Server aus. Wer eine Hochzeitswebsite besucht, bekommt keine Cookies, und darüber speichern wir nichts. Lädt ein Paar seine Gäste über persönliche Antwort-Links ein, speichern wir die Antworten dieser Gäste für das Paar und löschen sie automatisch nach der Hochzeit (siehe „Gästeliste und Antworten“).
+Wir verarbeiten personenbezogene Daten nur, soweit es für den Betrieb von Traureise nötig ist. Es gibt kein Tracking, keine Analysedienste, keine Werbung und keine eingebetteten Inhalte Dritter: Schriften, Skripte und Bilder liefert ausschließlich unser Server aus. Wer eine Hochzeitswebsite besucht, bekommt keine Cookies, und darüber speichern wir nichts. Lädt ein Paar seine Gäste über persönliche Links ein, speichern wir die Antworten dieser Gäste für das Paar und löschen sie automatisch nach der Hochzeit (siehe „Gästeliste und Antworten“). Karten wie Save the Dates und Einladungen schicken wir auf Wunsch des Paares auch per E-Mail; ob ein Haushalt eine Karte geöffnet hat, erfahren wir nur, wenn er sie auf seiner eigenen Seite bei uns ansieht, nie über die E-Mail (siehe „Karten, E-Mails an Gäste und Erinnerungen“).
 
 ## Hosting und Server-Protokolle
 
@@ -37,7 +37,19 @@ Wir verarbeiten die Gästeliste, um dem Paar die Planung seiner Hochzeit zu erm�
 
 Die Antwortseite setzt keine Cookies, lädt nichts von anderen Anbietern und gibt die Adresse des Links nicht an andere Seiten weiter; Suchmaschinen nehmen sie nicht auf. Damit niemand massenhaft Antworten schickt, zählen wir Antworten je Link und je IP-Adresse. Einträge, die älter als 15 Minuten sind, löschen wir bei der nächsten Antwort oder Anmeldung (Art. 6 Abs. 1 lit. f DSGVO).
 
-Die Gästeliste mit allen Antworten löschen wir automatisch zwölf Monate nach dem Hochzeitstag oder, wenn das später ist, am Ende des RSVP-Pakets; etwa 30 Tage vorher erinnern wir das Paar per E-Mail daran. Wird ein Paket erstattet, sind die Links sofort nicht mehr aktiv, die Gästeliste bleibt aber bis zu diesem Datum, damit das Paar sie noch herunterladen kann. Ist weder ein Hochzeitsdatum eingetragen noch ein Paket gekauft, bleibt die Gästeliste, bis das Paar sie, die Website oder sein Konto löscht. Löscht das Paar einen Haushalt, die Website oder sein Konto, sind die zugehörigen Gästedaten sofort gelöscht.
+Die Gästeliste mit allen Antworten, E-Mail-Adressen, persönlichen Zeilen und dem Versand- und Öffnungsstatus der Karten löschen wir automatisch zwölf Monate nach dem Hochzeitstag oder, wenn das später ist, am Ende des RSVP-Pakets; etwa 30 Tage vorher erinnern wir das Paar per E-Mail daran. Wird ein Paket erstattet, sind die Links sofort nicht mehr aktiv, die Gästeliste bleibt aber bis zu diesem Datum, damit das Paar sie noch herunterladen kann. Ist weder ein Hochzeitsdatum eingetragen noch ein Paket gekauft, bleibt die Gästeliste, bis das Paar sie, die Website oder sein Konto löscht. Löscht das Paar einen Haushalt, die Website oder sein Konto, sind die zugehörigen Gästedaten sofort gelöscht.
+
+## Karten, E-Mails an Gäste und Erinnerungen
+
+Paare können ihren Gästen über deren persönlichen Link Karten schicken: ein Save the Date, eine Einladung und eine Dankeskarte; eine Verlobungsanzeige hat einen gemeinsamen Link für alle. Dafür speichern wir zusätzlich, was das Paar einträgt: auf Wunsch eine E-Mail-Adresse pro Haushalt und eine persönliche Zeile für die Dankeskarte, dazu die Gestaltung und Texte der Karten.
+
+Für jede Karte und jeden Haushalt speichern wir, ob das Paar den Haushalt ausgelassen hat, wann und wie die Karte verschickt wurde (per E-Mail, per WhatsApp oder als kopierter Link, wobei wir bei WhatsApp und Links nur festhalten, dass das Paar den Knopf benutzt hat), ob eine E-Mail fehlgeschlagen ist, welche Erinnerungen verschickt wurden und wann der Haushalt die Karte zum ersten Mal geöffnet hat. „Geöffnet“ heißt: Die Seite des Haushalts hat die Karte angezeigt, nachdem der Umschlag geöffnet wurde, und das unserem Server gemeldet. Wir verwenden dafür keine Zählpixel, keine Lesebestätigungen und keine umgeleiteten Links; die E-Mails laden nichts nach, das Bild der Karte hängt an der E-Mail an. Diese Angaben sieht nur das Paar.
+
+Hat ein Haushalt eine E-Mail-Adresse, verschicken wir in seinem Auftrag die Karten und Erinnerungen an die Antwort, die das Paar auslöst, und auf Wunsch des Paares automatische Erinnerungen an den Tagen vor der Antwortfrist, die das Paar wählt, solange der Haushalt noch nicht geantwortet hat. Die E-Mails nennen das Paar als Absender („… über Traureise“), Antworten gehen direkt an das Paar. Wir verschicken sie über unseren E-Mail-Dienstleister (siehe „E-Mail-Versand“).
+
+Jede dieser E-Mails enthält einen Link, mit dem der Haushalt ohne Anmeldung keine E-Mails mehr zu dieser Hochzeit bekommt; E-Mail-Programme bieten das auch als Abmelde-Knopf an. Dabei löschen wir die E-Mail-Adresse sofort und merken uns nur den Zeitpunkt der Abmeldung, damit das Paar sie sieht. Der persönliche Link funktioniert weiter.
+
+Wir verarbeiten diese Daten, um dem Paar das Einladen zu ermöglichen (Art. 6 Abs. 1 lit. b DSGVO gegenüber dem Paar, Art. 6 Abs. 1 lit. f DSGVO gegenüber den Gästen; das Interesse ist, Gäste auf dem Weg einzuladen, den das Paar mit ihnen ohnehin pflegt). Welche Gäste eine E-Mail-Adresse bekommen, entscheidet das Paar. E-Mail-Adressen, persönliche Zeilen und der Versand- und Öffnungsstatus gehören zur Gästeliste und werden mit ihr gelöscht (siehe oben), ebenso wenn das Paar einen Haushalt, eine Karte, die Website oder sein Konto löscht. Die Gestaltung der Karten bleibt bei der Website, bis das Paar sie löscht.
 
 ## Anmeldung ohne Passwort
 
@@ -47,7 +59,7 @@ Damit niemand massenhaft Anmeldelinks anfordern kann, zählen wir Anforderungen 
 
 ## E-Mail-Versand
 
-Anmeldelinks und die E-Mails an Paare zu ihrer Gästeliste verschicken wir über einen E-Mail-Dienstleister, mit dem ein Vertrag zur Auftragsverarbeitung besteht. Dabei werden die E-Mail-Adresse und der Inhalt der Nachricht übermittelt (Art. 6 Abs. 1 lit. b DSGVO). Wenn ein Paar das in seinen Einstellungen wählt, enthalten diese E-Mails die Antworten seiner Gäste: Namen, Zu- und Absagen, Anfragen für weitere Gäste und Nachrichten, entweder bei jeder Antwort oder einmal täglich zusammengefasst. Allergien schicken wir nicht per E-Mail.
+Anmeldelinks, die E-Mails an Paare zu ihrer Gästeliste und die Karten und Erinnerungen, die wir im Auftrag eines Paares an seine Gäste schicken, verschicken wir über einen E-Mail-Dienstleister, mit dem ein Vertrag zur Auftragsverarbeitung besteht. Dabei werden die E-Mail-Adresse und der Inhalt der Nachricht übermittelt (Art. 6 Abs. 1 lit. b und f DSGVO, siehe oben). Wenn ein Paar das in seinen Einstellungen wählt, enthalten diese E-Mails die Antworten seiner Gäste: Namen, Zu- und Absagen, Anfragen für weitere Gäste und Nachrichten, entweder bei jeder Antwort oder einmal täglich zusammengefasst. Allergien schicken wir nicht per E-Mail.
 
 ## Cookies
 
