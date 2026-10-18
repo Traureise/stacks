@@ -14,7 +14,7 @@ services:
       # This instance's own Impressum, privacy policy and terms (./legal); Traureise ships none of them.
       IMPRINT_FILE: /legal/impressum.md
       PRIVACY_FILE: /legal/datenschutz.md
-      # TERMS_FILE: /legal/agb.md once the terms exist (with paid tiers).
+      TERMS_FILE: /legal/agb.md
     volumes:
       - ./legal:/legal:ro
       - ./data/uploads:/data/uploads

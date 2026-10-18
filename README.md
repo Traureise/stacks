@@ -4,7 +4,7 @@ How [traureise.de](https://traureise.de) runs [Traureise](https://github.com/Tra
 
 | Folder | What runs | Reachable |
 |---|---|---|
-| `traureise/` | Traureise and PostgreSQL 17; `legal/` holds this instance's Impressum and privacy policy, `scripts/dump.sh` dumps the database | On the server's private address only: a reverse proxy in front passes requests on |
+| `traureise/` | Traureise and PostgreSQL 17; `legal/` holds this instance's Impressum, privacy policy and terms (AGB), `scripts/dump.sh` dumps the database | On the server's private address only: a reverse proxy in front passes requests on |
 
 ## How it is used
 
@@ -16,7 +16,7 @@ This repository is checked out on the server, and each folder's `.env` is writte
 
 ## Legal texts
 
-Traureise ships no Impressum, privacy policy or terms. This instance's are the Markdown files in `traureise/legal/`, mounted read-only and named by `IMPRINT_FILE`, `PRIVACY_FILE` and `TERMS_FILE` ([how it works](https://docs.traureise.de/legal-and-billing/)). Traureise reads them on every request, so a merged change shows after the next pull, without a restart. Their history here is the record of what each page said on which day. There is no `agb.md` yet, so `TERMS_FILE` is not set and `/agb` is a 404; the terms come with paid tiers.
+Traureise ships no Impressum, privacy policy or terms. This instance's are the Markdown files in `traureise/legal/`, mounted read-only and named by `IMPRINT_FILE`, `PRIVACY_FILE` and `TERMS_FILE` ([how it works](https://docs.traureise.de/legal-and-billing/)). Traureise reads them on every request, so a merged change shows after the next pull, without a restart. Their history here is the record of what each page said on which day.
 
 ## Backups
 
