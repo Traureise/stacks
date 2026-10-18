@@ -1,0 +1,51 @@
+# Traureise with its database. Nothing here is published to the internet: Traureise listens on the server's private
+# address, where a reverse proxy passes requests on.
+services:
+  traureise:
+    # Pinned: an upgrade is a commit here. TRAUREISE_IMAGE overrides it, e.g. with a locally built image on a test machine.
+    image: ${TRAUREISE_IMAGE:-ghcr.io/traureise/traureise:0.2.0}
+    container_name: traureise
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://traureise:${POSTGRES_PASSWORD:?the database password}@db:5432/traureise
+      STORAGE_DRIVER: local
+      STORAGE_LOCAL_DIR: /data/uploads
+      # This instance's own Impressum, privacy policy and terms (./legal); Traureise ships none of them.
+      # A setting without a file makes no page, so TERMS_FILE can stay set before agb.md exists.
+      IMPRINT_FILE: /legal/impressum.md
+      PRIVACY_FILE: /legal/datenschutz.md
+      TERMS_FILE: /legal/agb.md
+    volumes:
+      - ./legal:/legal:ro
+      - ./data/uploads:/data/uploads
+    ports:
+      - "${PRIVATE_IP:?this server's private address}:${PORT:-3010}:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - internal
+
+  # Accounts, wedding websites, purchases. The images are files in ./data/uploads.
+  db:
+    image: postgres:17-alpine
+    container_name: traureise-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: traureise
+      POSTGRES_DB: traureise
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U traureise -d traureise"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks:
+      - internal
+
+networks:
+  internal:
+    name: traureise

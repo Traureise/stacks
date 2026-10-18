@@ -1,0 +1,4 @@
+.env
+*/data/
+# Machine-specific additions (for example a mail catcher on a test machine); compose loads it automatically.
+*/compose.override.yaml
