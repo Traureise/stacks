@@ -29,7 +29,7 @@ Es gelten die zum Zeitpunkt des Kaufs auf der Seite [Preise](/preise) genannten 
 
 ## 5. Laufzeit eines Pakets
 
-Ein Paket gilt bis zum Ende des Tages zwölf Monate nach dem Hochzeitsdatum, das zum Zeitpunkt des Kaufs bei der Hochzeit eingetragen ist, mindestens aber zwölf Monate ab dem Kauf. Ist kein Datum eingetragen, gilt es zwölf Monate ab dem Kauf. Ein späteres Ändern des Hochzeitsdatums verlängert ein Paket nicht. Ein höheres Paket kann jederzeit zum vollen Preis dazugekauft werden; eine Anrechnung bereits gekaufter Pakete erfolgt nicht.
+Ein Paket gilt bis zum Ende des Tages zwölf Monate nach dem Hochzeitsdatum, das zum Zeitpunkt des Kaufs bei der Hochzeit eingetragen ist, mindestens aber zwölf Monate ab dem Kauf. Ist kein Datum eingetragen, gilt es zwölf Monate ab dem Kauf. Ein späteres Ändern des Hochzeitsdatums verlängert ein Paket nicht. Ein höheres Paket kann jederzeit dazugekauft werden. Dabei rechnen wir den beim Kauf geltenden Preis des Pakets an, das die Hochzeit zu diesem Zeitpunkt hat; ihr zahlt nur die Differenz. Für das höhere Paket gilt die Laufzeit nach diesem Absatz ab seinem Kauf.
 
 ## 6. Widerrufsrecht
 
@@ -79,4 +79,4 @@ Wie wir mit euren Daten umgehen, steht in der [Datenschutzerklärung](/datenschu
 
 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Bei Verbraucherinnen und Verbrauchern gilt diese Rechtswahl nur, soweit dadurch nicht der Schutz entzogen wird, den zwingende Bestimmungen des Staates ihres gewöhnlichen Aufenthalts gewähren. Ich bin nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. Sollte eine Bestimmung unwirksam sein, bleiben die übrigen wirksam.
 
-Stand: 18. Oktober 2026
+Stand: 19. Oktober 2026
