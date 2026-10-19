@@ -6,13 +6,13 @@ Diese Bedingungen gelten für die Nutzung von Traureise unter traureise.de. Anbi
 
 ## 2. Leistungen
 
-Mit Traureise gestaltet ihr eine Website für eure Hochzeit und teilt sie mit euren Gästen.
+Mit Traureise gestaltet ihr eine Website und Karten für eure Hochzeit und teilt sie mit euren Gästen. Karten gehen auch ohne Website.
 
 - **Website (kostenlos):** Hochzeitswebsite mit allen Bereichen, Teilen per Link und QR-Code, Themes, Farben und Schriften. Gästeliste, Antwortfrist, Menüwahl und Umfragen könnt ihr kostenlos vorbereiten und das Antwortformular in der Vorschau ansehen, ebenso Karten gestalten und in der Vorschau ansehen.
 - **RSVP:** persönliche Antwort-Links für jeden Haushalt eurer Gästeliste, Teilen per Link oder WhatsApp, die Antworten eurer Gäste in der Übersicht und Benachrichtigungen per E-Mail.
 - **Einladungen:** zusätzlich Save the Date und Einladung über den persönlichen Link jedes Haushalts, Versand per Link, WhatsApp oder E-Mail, Erinnerungen per E-Mail (automatisch oder per Klick), die Anzeige, welcher Haushalt eine Karte geöffnet hat, und der Export als PDF und Bild.
 - **Komplett:** zusätzlich Dankeskarte und Verlobungsanzeige.
-- Gestalten und die Vorschau aller Karten sind kostenlos. Ein Paket gilt für genau eine Hochzeitswebsite; Einzelheiten stehen auf der Seite [Preise](/preise).
+- Gestalten und die Vorschau aller Karten sind kostenlos. Ein Paket gilt für genau eine Hochzeit (mit oder ohne Website); Einzelheiten stehen auf der Seite [Preise](/preise).
 
 Pakete, deren Funktionen noch nicht verfügbar sind, sind als „bald verfügbar“ gekennzeichnet und können nicht gekauft werden.
 
@@ -22,13 +22,13 @@ Für die Nutzung braucht ihr ein Konto. Ihr meldet euch mit eurer E-Mail-Adresse
 
 ## 4. Kauf von Paketen
 
-Kostenpflichtige Pakete verkauft Creem (Armitage Labs OÜ, Estland) als Händler („Merchant of Record“). Den Kaufvertrag über ein Paket schließt ihr auf der Bezahlseite mit Creem; dafür gelten zusätzlich die Bedingungen von Creem, die euch dort angezeigt werden. Creem nimmt die Zahlung entgegen und stellt die Rechnung aus. Wir schalten das Paket nach bestätigter Zahlung für die gewählte Hochzeitswebsite frei.
+Kostenpflichtige Pakete verkauft Creem (Armitage Labs OÜ, Estland) als Händler („Merchant of Record“). Den Kaufvertrag über ein Paket schließt ihr auf der Bezahlseite mit Creem; dafür gelten zusätzlich die Bedingungen von Creem, die euch dort angezeigt werden. Creem nimmt die Zahlung entgegen und stellt die Rechnung aus. Wir schalten das Paket nach bestätigter Zahlung für die gewählte Hochzeit frei.
 
 Es gelten die zum Zeitpunkt des Kaufs auf der Seite [Preise](/preise) genannten Preise. Sie sind Einmalpreise pro Hochzeit und enthalten die gesetzliche Umsatzsteuer. Es gibt kein Abonnement und keine automatische Verlängerung.
 
 ## 5. Laufzeit eines Pakets
 
-Ein Paket gilt bis zum Ende des Tages zwölf Monate nach dem Hochzeitsdatum, das zum Zeitpunkt des Kaufs bei der Website eingetragen ist, mindestens aber zwölf Monate ab dem Kauf. Ist kein Datum eingetragen, gilt es zwölf Monate ab dem Kauf. Ein späteres Ändern des Hochzeitsdatums verlängert ein Paket nicht. Ein höheres Paket kann jederzeit zum vollen Preis dazugekauft werden; eine Anrechnung bereits gekaufter Pakete erfolgt nicht.
+Ein Paket gilt bis zum Ende des Tages zwölf Monate nach dem Hochzeitsdatum, das zum Zeitpunkt des Kaufs bei der Hochzeit eingetragen ist, mindestens aber zwölf Monate ab dem Kauf. Ist kein Datum eingetragen, gilt es zwölf Monate ab dem Kauf. Ein späteres Ändern des Hochzeitsdatums verlängert ein Paket nicht. Ein höheres Paket kann jederzeit zum vollen Preis dazugekauft werden; eine Anrechnung bereits gekaufter Pakete erfolgt nicht.
 
 ## 6. Widerrufsrecht
 
@@ -48,9 +48,9 @@ Erfahren wir von rechtswidrigen Inhalten, dürfen wir sie sperren oder entfernen
 
 Für die Gästeliste und die Antworten eurer Gäste seid ihr verantwortlich. Tragt nur Menschen ein, die ihr zu eurer Hochzeit einladet, und schickt die persönlichen Links nur an den jeweiligen Haushalt; wer einen Link hat, kann für diesen Haushalt antworten und sieht die Karten, die ihr ihm geschickt habt. Links teilt ihr selbst, zum Beispiel per WhatsApp, oder lasst Karten und Erinnerungen von uns per E-Mail verschicken.
 
-E-Mail-Adressen tragt ihr nur für Gäste ein, die damit rechnen, von euch zur Hochzeit Post zu bekommen, und nur, wenn ihr die Adresse rechtmäßig habt. Wir verschicken die E-Mails in eurem Auftrag mit eurem Namen als Absender; Antworten gehen an die E-Mail-Adresse eures Kontos. Jede E-Mail enthält einen Abmeldelink; meldet sich ein Haushalt ab, löschen wir seine Adresse. Tragt sie danach nur wieder ein, wenn der Haushalt euch ausdrücklich darum bittet. Ihr dürft den Versand nicht für Werbung oder für andere Zwecke als eure Hochzeit nutzen. Wir dürfen den E-Mail-Versand für eine Website aussetzen, wenn er missbraucht wird oder sich Beschwerden über unerwünschte E-Mails häufen.
+E-Mail-Adressen tragt ihr nur für Gäste ein, die damit rechnen, von euch zur Hochzeit Post zu bekommen, und nur, wenn ihr die Adresse rechtmäßig habt. Wir verschicken die E-Mails in eurem Auftrag mit eurem Namen als Absender; Antworten gehen an die E-Mail-Adresse eures Kontos. Jede E-Mail enthält einen Abmeldelink; meldet sich ein Haushalt ab, löschen wir seine Adresse. Tragt sie danach nur wieder ein, wenn der Haushalt euch ausdrücklich darum bittet. Ihr dürft den Versand nicht für Werbung oder für andere Zwecke als eure Hochzeit nutzen. Wir dürfen den E-Mail-Versand für eine Hochzeit aussetzen, wenn er missbraucht wird oder sich Beschwerden über unerwünschte E-Mails häufen.
 
-Die Gästeliste mit allen Antworten, E-Mail-Adressen, persönlichen Zeilen und dem Versandstatus eurer Karten löschen wir automatisch zwölf Monate nach eurem Hochzeitstag oder, wenn das später ist, am Ende eures RSVP-Pakets. Etwa 30 Tage vorher erinnern wir euch per E-Mail; bis dahin könnt ihr sie als CSV-Datei oder mit euren übrigen Daten unter „Konto“ herunterladen. Wird ein Paket erstattet oder zurückgebucht, sind die Links ab dann nicht mehr aktiv; die Gästeliste bleibt bis zu diesem Datum erhalten. Die Gestaltung eurer Karten bleibt bei eurer Website.
+Die Gästeliste mit allen Antworten, E-Mail-Adressen, persönlichen Zeilen und dem Versandstatus eurer Karten löschen wir automatisch zwölf Monate nach eurem Hochzeitstag oder, wenn das später ist, am Ende eures RSVP-Pakets. Etwa 30 Tage vorher erinnern wir euch per E-Mail; bis dahin könnt ihr sie als CSV-Datei oder mit euren übrigen Daten unter „Konto“ herunterladen. Wird ein Paket erstattet oder zurückgebucht, sind die Links ab dann nicht mehr aktiv; die Gästeliste bleibt bis zu diesem Datum erhalten. Die Gestaltung eurer Karten bleibt, bis ihr die Karte, die Hochzeit oder euer Konto löscht.
 
 ## 9. Verfügbarkeit
 
@@ -64,7 +64,7 @@ Wir haften unbeschränkt bei Vorsatz und grober Fahrlässigkeit, bei Verletzung 
 
 ## 11. Kündigung und Löschung
 
-Ihr könnt euer Konto jederzeit unter „Konto“ löschen. Damit werden alle eure Hochzeitswebsites, Inhalte, Bilder und Gästelisten gelöscht; bezahlte Pakete enden ohne Erstattung, soweit kein Widerrufs- oder Erstattungsanspruch besteht. Wir können den unentgeltlichen Nutzungsvertrag mit einer Frist von vier Wochen per E-Mail kündigen; ein laufendes Paket bleibt davon bis zu seinem Ende unberührt. Das Recht zur Kündigung aus wichtigem Grund bleibt für beide Seiten bestehen.
+Ihr könnt euer Konto jederzeit unter „Konto“ löschen. Damit werden alle eure Hochzeiten mit Websites, Karten, Inhalten, Bildern und Gästelisten gelöscht; bezahlte Pakete enden ohne Erstattung, soweit kein Widerrufs- oder Erstattungsanspruch besteht. Wir können den unentgeltlichen Nutzungsvertrag mit einer Frist von vier Wochen per E-Mail kündigen; ein laufendes Paket bleibt davon bis zu seinem Ende unberührt. Das Recht zur Kündigung aus wichtigem Grund bleibt für beide Seiten bestehen.
 
 ## 12. Änderungen dieser Bedingungen
 
