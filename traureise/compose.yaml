@@ -11,7 +11,12 @@ services:
       DATABASE_URL: postgres://traureise:${POSTGRES_PASSWORD:?the database password}@db:5432/traureise
       STORAGE_DRIVER: local
       STORAGE_LOCAL_DIR: /data/uploads
-      # This instance's own Impressum, privacy policy and terms (./legal); Traureise ships none of them.
+      # This instance's own Impressum, privacy policy and terms (./legal), published with the docs; Traureise links them.
+      IMPRINT_URL: https://docs.traureise.de/impressum/
+      PRIVACY_URL: https://docs.traureise.de/datenschutz/
+      TERMS_URL: https://docs.traureise.de/agb/
+      # Read by the pinned 0.2.0 only, which still shows the files itself. Remove these and the ./legal mount with the
+      # first image that links the pages instead (Traureise ADR 0027).
       IMPRINT_FILE: /legal/impressum.md
       PRIVACY_FILE: /legal/datenschutz.md
       TERMS_FILE: /legal/agb.md

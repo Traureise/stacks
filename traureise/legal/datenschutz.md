@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Hier steht, welche personenbezogenen Daten Traureise unter traureise.de verarbeitet, wozu und wie lange.
+Hier steht, welche personenbezogenen Daten Traureise unter traureise.de und die Dokumentation unter docs.traureise.de verarbeiten, wozu und wie lange.
 
 ## Verantwortlicher
 
@@ -13,7 +13,7 @@ E-Mail: [kontakt@marcelbruckner.de](mailto:kontakt@marcelbruckner.de)
 
 ## Das Wichtigste in Kürze
 
-Wir verarbeiten personenbezogene Daten nur, soweit es für den Betrieb von Traureise nötig ist. Es gibt kein Tracking, keine Analysedienste, keine Werbung und keine eingebetteten Inhalte Dritter: Schriften, Skripte und Bilder liefert ausschließlich unser Server aus. Wer eine Hochzeitswebsite besucht, bekommt keine Cookies, und darüber speichern wir nichts. Lädt ein Paar seine Gäste über persönliche Links ein, speichern wir die Antworten dieser Gäste für das Paar und löschen sie automatisch nach der Hochzeit (siehe „Gästeliste und Antworten“). Karten wie Save the Dates und Einladungen schicken wir auf Wunsch des Paares auch per E-Mail; ob ein Haushalt eine Karte geöffnet hat, erfahren wir nur, wenn er sie auf seiner eigenen Seite bei uns ansieht, nie über die E-Mail (siehe „Karten, E-Mails an Gäste und Erinnerungen“).
+Wir verarbeiten personenbezogene Daten nur, soweit es für den Betrieb von Traureise nötig ist. Es gibt kein Tracking, keine Analysedienste, keine Werbung und keine eingebetteten Inhalte Dritter: Schriften, Skripte und Bilder liefert ausschließlich unser Server aus. Einzige Ausnahme ist die Kartensuche für Paare, und nur, nachdem sie zugestimmt haben (siehe „Kartensuche für Paare“). Wer eine Hochzeitswebsite besucht, bekommt keine Cookies, und darüber speichern wir nichts. Lädt ein Paar seine Gäste über persönliche Links ein, speichern wir die Antworten dieser Gäste für das Paar und löschen sie automatisch nach der Hochzeit (siehe „Gästeliste und Antworten“). Karten wie Save the Dates und Einladungen schicken wir auf Wunsch des Paares auch per E-Mail; ob ein Haushalt eine Karte geöffnet hat, erfahren wir nur, wenn er sie auf seiner eigenen Seite bei uns ansieht, nie über die E-Mail (siehe „Karten, E-Mails an Gäste und Erinnerungen“).
 
 ## Hosting und Server-Protokolle
 
@@ -65,6 +65,14 @@ Anmeldelinks, die E-Mails an Paare zu ihrer Gästeliste und die Karten und Erinn
 
 Wir setzen nur technisch notwendige Cookies und brauchen deshalb keine Einwilligung (§ 25 Abs. 2 Nr. 2 TDDDG): „traureise_session“ hält dich nach der Anmeldung angemeldet, und „traureise_locale“ merkt sich auf Wunsch deine Sprache.
 
+## Kartensuche für Paare
+
+Im Ablauf und auf der Seite „Hochzeit“ können Paare einen Ort auf einer Karte suchen. Karte und Suche kommen von OpenStreetMap, betrieben von der OpenStreetMap Foundation, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, Vereinigtes Königreich. Bis du „Karte laden“ oder „Immer laden“ wählst, lädt dein Browser nichts von dort. Danach lädt er Kartenbilder und Suchergebnisse direkt von den Servern der Foundation; sie erhält dabei deine IP-Adresse, die Angaben deines Browsers und deine Suchbegriffe (Art. 6 Abs. 1 lit. a DSGVO, deine Einwilligung). Für das Vereinigte Königreich gilt ein Angemessenheitsbeschluss der EU-Kommission (Art. 45 DSGVO). Wie die Foundation mit den Daten umgeht, steht in ihrer [Datenschutzerklärung](https://osmfoundation.org/wiki/Privacy_Policy). „Immer laden“ merkt sich deine Wahl nur in deinem Browser; du widerrufst sie, indem du die gespeicherten Website-Daten für traureise.de löschst. Den gewählten Ort speichern wir mit seinen Koordinaten bei der Hochzeit. Hochzeitswebsites und die Seiten der Gäste laden keine Karte.
+
+## Dokumentation unter docs.traureise.de
+
+Die Dokumentation liegt bei GitHub Pages, einem Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf einer Seite verarbeitet GitHub deine IP-Adresse, Datum und Uhrzeit, die aufgerufene Adresse und die Angaben deines Browsers, um die Seite auszuliefern und den Dienst vor Angriffen zu schützen, und speichert sie in Protokollen (Art. 6 Abs. 1 lit. f DSGVO). GitHub, Inc. ist nach dem EU-US Data Privacy Framework zertifiziert (Art. 45 DSGVO); mehr steht in der [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement). Die Dokumentation setzt keine Cookies und lädt keine Schriften oder Skripte von anderen Servern; nur ob du sie hell oder dunkel lesen willst, merkt sich dein Browser.
+
 ## Links zu anderen Seiten
 
 Links wie „Karte ansehen“ führen zu OpenStreetMap. Erst wenn du einem solchen Link folgst, verlässt du Traureise; dann gilt die Datenschutzerklärung der jeweiligen Seite.
@@ -79,4 +87,4 @@ Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschun
 
 Du kannst dich außerdem bei einer Datenschutz-Aufsichtsbehörde beschweren, zum Beispiel beim Bayerischen Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach.
 
-Stand: 18. Oktober 2026
+Stand: 21. Oktober 2026

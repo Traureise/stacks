@@ -16,7 +16,7 @@ This repository is checked out on the server, and each folder's `.env` is writte
 
 ## Legal texts
 
-Traureise ships no Impressum, privacy policy or terms. This instance's are the Markdown files in `traureise/legal/`, mounted read-only and named by `IMPRINT_FILE`, `PRIVACY_FILE` and `TERMS_FILE` ([how it works](https://docs.traureise.de/legal-and-billing/)). Traureise reads them on every request, so a merged change shows after the next pull, without a restart. Their history here is the record of what each page said on which day.
+Traureise ships no Impressum, privacy policy or terms. This instance's are the Markdown files in `traureise/legal/`. The documentation build of Traureise/traureise copies them in and publishes them at [docs.traureise.de/impressum](https://docs.traureise.de/impressum/), [/datenschutz](https://docs.traureise.de/datenschutz/) and [/agb](https://docs.traureise.de/agb/); the app links them through `IMPRINT_URL`, `PRIVACY_URL` and `TERMS_URL` ([how it works](https://docs.traureise.de/legal-and-billing/)). After a change here, run "Publish docs" in Traureise/traureise to republish them. Their history here is the record of what each page said on which day.
 
 ## Backups
 

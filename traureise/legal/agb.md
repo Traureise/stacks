@@ -13,7 +13,7 @@ Mit Traureise legt ihr eure Hochzeit an, gestaltet dafür Karten und eine Websit
 - **Einladungen:** zusätzlich Save the Date und Einladung über den persönlichen Link jedes Haushalts, Versand per Link, WhatsApp oder E-Mail, Erinnerungen per E-Mail (automatisch oder per Klick), die Anzeige, welcher Haushalt eine Karte geöffnet hat, und der Export als PDF und Bild.
 - **Komplett:** zusätzlich Dankeskarte und Verlobungsanzeige.
 - Die erste Version jeder Karte und der Website ist dabei. Weitere Versionen gehören zum Paket der jeweiligen Karte (Save the Date und Einladung: Einladungen; Dankeskarte und Verlobungsanzeige: Komplett); eine weitere Website-Version gibt es mit jedem Paket. Endet ein Paket, bleiben angelegte Versionen erhalten; weitere Website-Versionen sind dann nicht mehr öffentlich.
-- Gestalten und die Vorschau aller Karten sind kostenlos. Ein Paket gilt für genau eine Hochzeit mit allen ihren Karten und Website-Versionen; Einzelheiten stehen auf der Seite [Preise](/preise).
+- Gestalten und die Vorschau aller Karten sind kostenlos. Ein Paket gilt für genau eine Hochzeit mit allen ihren Karten und Website-Versionen; Einzelheiten stehen auf der Seite [Preise](https://traureise.de/preise).
 
 Pakete, deren Funktionen noch nicht verfügbar sind, sind als „bald verfügbar“ gekennzeichnet und können nicht gekauft werden.
 
@@ -25,7 +25,7 @@ Für die Nutzung braucht ihr ein Konto. Ihr meldet euch mit eurer E-Mail-Adresse
 
 Kostenpflichtige Pakete verkauft Creem (Armitage Labs OÜ, Estland) als Händler („Merchant of Record“). Den Kaufvertrag über ein Paket schließt ihr auf der Bezahlseite mit Creem; dafür gelten zusätzlich die Bedingungen von Creem, die euch dort angezeigt werden. Creem nimmt die Zahlung entgegen und stellt die Rechnung aus. Wir schalten das Paket nach bestätigter Zahlung für die gewählte Hochzeit frei.
 
-Es gelten die zum Zeitpunkt des Kaufs auf der Seite [Preise](/preise) genannten Preise. Sie sind Einmalpreise pro Hochzeit und enthalten die gesetzliche Umsatzsteuer. Es gibt kein Abonnement und keine automatische Verlängerung.
+Es gelten die zum Zeitpunkt des Kaufs auf der Seite [Preise](https://traureise.de/preise) genannten Preise. Sie sind Einmalpreise pro Hochzeit und enthalten die gesetzliche Umsatzsteuer. Es gibt kein Abonnement und keine automatische Verlängerung.
 
 ## 5. Laufzeit eines Pakets
 
